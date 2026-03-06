@@ -1,4 +1,4 @@
-# CHAPT4 - ROS2 人脸检测项目
+# ros2-face-recognition
 
 这是一个基于 **ROS2 Python Service** 的人脸检测项目，使用 `face_recognition` 和 `OpenCV` 完成人脸位置检测，并通过自定义服务接口返回检测结果。
 
